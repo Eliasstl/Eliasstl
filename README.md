@@ -1,16 +1,37 @@
-### Hi there 👋
+# Perfil de Analista de Teste | QA
 
-<!--
-**Eliasstl/Eliasstl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Elias Souza
+[![BLOG](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://analistadetestedojunioraosenior.blogspot.com/)
+[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtV_Bmmf8VUMA_xbK7dC67w)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliasaraujo/)
 
-Here are some ideas to get you started:
+![Anurag's ELIAS SOUZA](https://github-readme-stats.vercel.app/api?username=Eliasstl&show_icons=true&theme=onedark)
+- Testes Regressivos
+- Testes de Sistemas
+- Automação de Testes com Appium e JUnit (Java)
+- RPA (Robotic Process Automation)
+- JMeter
+- Testes de Integração
+- Cypress
+- JavaScript
+- Certificação CTFL (Certified Tester Foundation Level)
+- Gerenciamento de Bugs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+### Linguagens de Programação
+
+- Java
+- JavaScript
+
+### Ferramentas de Automação
+
+- Appium
+- JUnit
+- Cypress
+
+### Ferramentas de Teste de Desempenho
+
+- JMeter
+
+
