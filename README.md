@@ -12,6 +12,7 @@
 - Automação de Testes com Appium e JUnit (Java)
 - RPA (Robotic Process Automation)
 - JMeter
+- Jest
 - Testes de Integração
 - Cypress
 - JavaScript
