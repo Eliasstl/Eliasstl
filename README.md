@@ -37,6 +37,7 @@
 
 - Appium
 - JUnit
+- Jest
 - Cypress
 
 ### Ferramentas de Teste de Desempenho
